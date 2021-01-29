@@ -1,0 +1,118 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+.home,
+.services,
+.query,
+.ameriquen,
+.ameriques,
+.afrique,
+.asie,
+.europe,
+.australie {
+  position: initial;
+  font-size: 5px;
+  display: flex;
+  height: 90vh;
+  align-items: top;
+  justify-content: center;
+}
+
+.home {
+  background-image: url("./images/img-1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #000000;
+  font-size: 35px;
+  font-family: Courier New;
+}
+
+.services {
+  background-image: url("./images/img-2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 50px;
+  font-family: Courier New;
+}
+
+.query {
+  background-image: url("./images/img-4.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(12, 0, 0);
+  font-size: 50px;
+  font-family: Courier New;
+}
+
+.ameriquen {
+  background-image: url("./images/img-6.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255);
+  font-size: 37px;
+  font-family: Courier New;
+  text-align: center;
+  text-align-last: initial;
+}
+
+.ameriques {
+  background-image: url("./images/img-5.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 37px;
+  font-family: Courier New;
+  text-align: center;
+}
+
+.afrique {
+  background-image: url("./images/img-8.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 37px;
+  font-family: Courier New;
+  text-align: center;
+}
+
+.asie {
+  background-image: url("./images/img-9.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 37px;
+  font-family: Courier New;
+  text-align: center;
+}
+.europe {
+  background-image: url("./images/img-10.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 37px;
+  font-family: Courier New;
+  text-align: center;
+}
+.australie {
+  background-image: url("./images/img-11.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 37px;
+  font-family: Courier New;
+  text-align: center;
+}

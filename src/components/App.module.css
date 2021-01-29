@@ -1,0 +1,16 @@
+body {
+  background-color: aliceblue;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image {
+  height: 50 px;
+  width: 50 px;
+  margin-top: 20 px;
+}
